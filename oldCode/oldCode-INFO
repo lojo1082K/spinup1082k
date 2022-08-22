@@ -1,0 +1,5 @@
+This dir is for storage of older versions of the code.
+
+A version is considered "Old" if the "Minor" number is smaller than the most recent code's.
+
+Key: 1.0.0 == Major.Minor.Patch
